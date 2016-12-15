@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	lg "github.com/advantageous/go-qbit/logging"
+	lg "github.com/advantageous/go-logback/logging"
 	"io"
 	"io/ioutil"
 	"log"
